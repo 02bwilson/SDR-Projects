@@ -1,0 +1,5 @@
+DEBUG:root:Getting SDR Object
+DEBUG:root:SDR Object <configure.SDR object at 0x000001FCAC5F54D0>
+DEBUG:root:Getting sample getter
+DEBUG:root:Sample getter <DataSample.sample object at 0x000001FCAA5BE050>
+DEBUG:root:Got Data! - Size:10240
